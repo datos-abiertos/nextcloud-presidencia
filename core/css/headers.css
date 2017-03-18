@@ -1,0 +1,15 @@
+/* HEADERS ------------------------------------------------------------------ */
+
+#body-user #header,
+#body-settings #header,
+#body-public #header {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	z-index: 2000;
+	height: 45px;
+	line-height: 2.5em;
+	background-color: #000 !important;
+	box-sizing: border-box;
+}
