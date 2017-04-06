@@ -1,4 +1,6 @@
 # nextcloud-presidencia
+Tema para Nextcloud 11 basado en el branding de datos.gob.mx.
+
 ### Instalación
 Dentro de la carpeta *themes* del sitio Nextcloud se debe clonar el repositorio con el siguiente comando:
 ```sh
@@ -18,3 +20,4 @@ Por ultimo se debe reiniciar el servidor apache con permisos de administrador:
 ```sh
 sudo service apache2 restart
 ```
+
